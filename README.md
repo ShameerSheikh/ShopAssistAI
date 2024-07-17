@@ -1,5 +1,5 @@
 # ShopAssistAI
-## Author: Mr. SHAMEER SHEIK, ML C56 batch, IIIT-Bangalore, UpGrad
+#### Author: Mr. SHAMEER SHEIK, ML C56 batch, IIIT-Bangalore, UpGrad
 # Objective
 Objective is to enhance ShopAssist AI, taking it to the next level as ShopAssist 2.0. In this we have to leverage the newly introduced 'function calling' feature to create a more streamlined and efficient chatbot to gain valuable experience in conversational AI and contribute to the development of innovative AI solutions. 
 
